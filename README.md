@@ -1,9 +1,13 @@
- <h1 align="center">Hi 👋, I'm Yazid Abdullah</h1>
+ <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Yazid Abdullah</h1>
 
 <h3 align="center">Computer Science Student | Java Developer | C++ Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Java+%7C+C%2B%2B+Developer;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Java+Developer;C%2B%2B+Programmer;Building+Real+Projects+🚀" />
 </p>
 
 <p align="center">
@@ -30,7 +34,7 @@ Concepts: OOP, Data Structures, Algorithms, Databases
 
 ## 🚀 Featured Projects
 💻 Student Management System (Java)  
-> OOP-based system with file handling and CRUD operations  
+> OOP-based system with CRUD operations and file handling  
 
 🧮 Advanced Calculator (C++)  
 > Supports multiple operations with clean logic design  
@@ -42,42 +46,4 @@ Concepts: OOP, Data Structures, Algorithms, Databases
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazid-Abdullah&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazid-Abdullah&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazid-Abdullah&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yazid-Abdullah&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yazid-Abdullah&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/yazid-abdullah-1058843b0">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you like my work, feel free to follow me!
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazid-Abdullah&show_icons=true&theme=tokyon
