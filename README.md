@@ -7,7 +7,7 @@
 <h3 align="center">Computer Science Student | C++ Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Java+Developer;C%2B%2B+Programmer;Building+Real+Projects+🚀" />
+   font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Java+Developer;C%2B%2B+Programmer;Building+Real+Projects+🚀" />
 </p>
 
 <p align="center">
@@ -26,8 +26,3 @@
 ## 🧠 Tech Stack
 Languages: Java, C++  
 ---
-
- ## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazid-Abdullah&show_icons=true&theme=tokyonight" />
-</p>
