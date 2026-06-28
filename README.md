@@ -27,6 +27,7 @@
 Languages: Java, C++  
 ---
 
-## 📊 GitHub Stats
+ ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazid-Abdullah&show_icons=true&theme=tokyon
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazid-Abdullah&show_icons=true&theme=tokyonight" />
+</p>
