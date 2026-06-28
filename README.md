@@ -1,33 +1,32 @@
- <h1 align="center">Hi 👋, I'm Yazid Abdullah</h1>
+ <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Yazid Abdullah</h1>
+
+<h3 align="center">Computer Science Student | Java Developer | C++ Programmer</h3>
 
 <p align="center">
-  <b>Computer Science Student</b> • <b>Java Developer</b> • <b>C++ Programmer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Java+Developer;C%2B%2B+Programmer;Building+Real+Projects+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Java+Developer;C%2B%2B+Programmer;Always+Learning..." />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yazid-Abdullah&label=Profile+Views&style=for-the-badge&color=2563EB" />
+  <img src="https://komarev.com/ghpvc/?username=Yazid-Abdullah&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
-
-- 🎓 Computer Science Student passionate about software development.
-- ☕ Focused on Java & Object-Oriented Programming.
-- 💻 Strong foundation in C++.
-- 🚀 Always learning and improving every day.
+## 🚀 About Me
+🎓 Computer Science Student passionate about software development  
+💙 Strong foundation in C++ and problem solving  
+⚡ Always learning and building real-world skills  
 
 ---
 
-# 🛠️ Tech Stack
+## 🧠 Tech Stack
+Languages: Java, C++  
+---
 
-### 💡 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp" />
-</p>
-
-### 🧰
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazid-Abdullah&show_icons=true&theme=tokyon
