@@ -1,41 +1,33 @@
  <h1 align="center">Hi 👋, I'm Yazid Abdullah</h1>
 
 <p align="center">
-Computer Science Student • Java Developer • C++ Programmer
+  <b>Computer Science Student</b> • <b>Java Developer</b> • <b>C++ Programmer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Java+Developer;C%2B%2B+Programmer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Java+Developer;C%2B%2B+Programmer;Always+Learning..." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yazid-Abdullah&label=Profile+Views&style=for-the-badge&color=2563EB" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- ☕ Passionate about Java and Object-Oriented Programming
-- 💙 Strong foundation in C++
-- 🌱 Currently improving my programming skills
-- 🚀 Interested in building useful software
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Java
-- C++
-
-### Tools
-- Visual Studio 2022
-- Eclipse
-
-### Concepts
-- Object-Oriented Programming (OOP)
+- 🎓 Computer Science Student passionate about software development.
+- ☕ Focused on Java & Object-Oriented Programming.
+- 💻 Strong foundation in C++.
+- 🚀 Always learning and improving every day.
 
 ---
 
-## 📈 GitHub Stats
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazid-Abdullah&show_icons=true&theme=tokyonight
+### 💡 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp" />
+</p>
+
+### 🧰
